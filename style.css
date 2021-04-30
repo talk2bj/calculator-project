@@ -1,0 +1,22 @@
+input {
+    font-size: 50px;
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    background-color: black;
+    color: blanchedalmond;
+    border-style: none;
+    border-radius: 10px;
+}
+
+myform {
+    margin-left: 225px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 70px;
+    margin-right: 150px;
+    margin-top: 20px;
+    text-align: center;
+}
